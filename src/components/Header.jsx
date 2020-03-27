@@ -16,7 +16,7 @@ const Header= () =>{
       <ul>
         <li><a href="/">Iniciar Sesion</a></li>
         <li><a href="/">Cuenta</a></li>
-        //<li><a href="/">Cerrar Sesión</a></li>
+        <li><a href="/">Cerrar Sesión</a></li>
       </ul>
     </div>
   </header>
